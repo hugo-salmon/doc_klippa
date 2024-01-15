@@ -14,7 +14,7 @@ Voici la documentation complète de l'API de Klippa : **https://custom-ocr.klipp
 - [Introduction](Introduction.md)
 - [Authentification](Authentification.md)
 - [Erreurs de code](Erreurs.md)
-- [Extraction de PDF](Extraction_PDF.md)
+- [Traitement de PDF](Traitement_PDF.md)
 - [Requêtes d'information](Requetes_information.md)
 - [Requêtes d'extraction de données](Requetes_extraction.md)
 - 
